@@ -1,0 +1,4 @@
+#Mon Jan 30 19:51:18 PKT 2023
+base.0=C\:\\Users\\Taimoor khan\\StudioProjects\\COVID_19\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
