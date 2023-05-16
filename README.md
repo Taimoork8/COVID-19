@@ -1,16 +1,4 @@
 # covid_19
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A covid-19 application in flutter with RESTFUL API.
+![COVID-19](https://github.com/Taimoork8/covid-19/assets/92014315/a0193ff8-56f1-4dc2-8bc2-6749ff840da9)
